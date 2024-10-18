@@ -1,4 +1,4 @@
-[Module Info] Battery Pack
-This module contains the high-capacity lithium-ion cells, encased in a heat-resistant housing with shock absorbers to protect the battery from impact. The battery pack connects to the scanner via a quick-release docking station, allowing for easy removal and replacement.
+[Module Name] Battery Pack
+[Module Info] This module contains the high-capacity lithium-ion cells, encased in a heat-resistant housing with shock absorbers to protect the battery from impact. The battery pack connects to the scanner via a quick-release docking station, allowing for easy removal and replacement.
 
 [Requirements]
